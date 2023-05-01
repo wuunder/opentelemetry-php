@@ -1,5 +1,5 @@
 {
-    "name": "open-telemetry/opentelemetry",
+    "name": "wuunder/opentelemetry",
     "description": "OpenTelemetry makes robust, portable telemetry a built-in feature of cloud-native software.",
     "type": "library",
     "homepage": "https://opentelemetry.io/docs/php",
